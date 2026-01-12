@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duggemvs&label=Profile%20views&color=0e75b6&style=flat" alt="duggemvs" /> </p>
 
-- 🔭 I’m currently working on [Liberty Global](https://www.libertyglobal.com/)
+- 🔭 I’m currently working for [JPMC]https://www.jpmorganchase.com/
 
 - 🌱 I’m currently learning **Microservices, Backend technologies**
 
